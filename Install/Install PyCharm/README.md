@@ -12,11 +12,9 @@ Previous page [**Install**](https://github.com/AdamXu23/Python/tree/main/Install
 1.   Click “**Next**“
 *   ![](https://github.com/AdamXu23/Python/blob/main/Install/Install%20Python%20runtime/Image/PyCharm_Install_4.jpg)
 ### Step 4
-1.   Redefine the installation path
->       C:\Pythonxxx
->       
-2.   Click “**Install**”
-*   ![](https://github.com/AdamXu23/Python/blob/main/Install/Download%20Python%20runtime/Image/Python_Install_4.jpg)
+1.   Click “**64-bit launcher**“
+2.   Click “**Next**”
+*   ![](https://github.com/AdamXu23/Python/blob/main/Install/Install%20Python%20runtime/Image/PyCharm_Install_5.jpg)
 ### Step 5
 1.   Click “**Disable path length limit**“
 2.   Click “**Close**”
