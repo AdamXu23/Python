@@ -1,7 +1,6 @@
 Previous page [**Python**](https://github.com/AdamXu23/Python)。
-# Python Installation
-1. Download Python runtime [**Downloads**](https://www.python.org/downloads/windows/ "在新分頁開啓鏈接")。
-2. Download PyCharm editor [**Downloads**](https://www.jetbrains.com/pycharm/download/#section=windows "在新分頁開啓鏈接")。
+# Install Python runtime
+ Download Python runtime [**Downloads**](https://www.python.org/downloads/windows/ "在新分頁開啓鏈接")。
 ## 1. Install Python runtime 
 ### Step 1
 1.  Run as administrator
