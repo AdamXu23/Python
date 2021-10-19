@@ -16,8 +16,7 @@ Previous page [**Install**](https://github.com/AdamXu23/Python/tree/main/Install
 2.   Click “**Next**”
 *   ![](https://github.com/AdamXu23/Python/blob/main/Install/Install%20Python%20runtime/Image/PyCharm_Install_5.jpg)
 ### Step 5
-1.   Click “**Disable path length limit**“
-2.   Click “**Close**”
-*   ![](https://github.com/AdamXu23/Python/blob/main/Install/Download%20Python%20runtime/Image/Python_Install_5.jpg)
+1.   Click “**Install**“
+*   ![](https://github.com/AdamXu23/Python/blob/main/Install/Install%20Python%20runtime/Image/PyCharm_Install_6.jpg)
 
 Previous page [**Install**](https://github.com/AdamXu23/Python/tree/main/Install)。
