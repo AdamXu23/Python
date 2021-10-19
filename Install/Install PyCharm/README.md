@@ -1,6 +1,6 @@
 Previous page [**Install**](https://github.com/AdamXu23/Python/tree/main/Install)。
 # Install PyCharm
- Download Python runtime [**Downloads**](https://www.python.org/downloads/windows/ "在新分頁開啓鏈接")。
+ Download PyCharm [**Downloads**](https://www.jetbrains.com/pycharm/download/#section=windows "在新分頁開啓鏈接")。
 ### Step 1
 1.  Run as administrator
 *   ![](https://github.com/AdamXu23/Python/blob/main/Install/Download%20Python%20runtime/Image/PyCharm_Install_1.jpg)
