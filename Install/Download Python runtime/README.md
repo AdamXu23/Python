@@ -1,4 +1,4 @@
-Previous page [**Python**](https://github.com/AdamXu23/Python/tree/main/Install)。
+Previous page [**Install**](https://github.com/AdamXu23/Python/tree/main/Install)。
 # Install Python runtime
  Download Python runtime [**Downloads**](https://www.python.org/downloads/windows/ "在新分頁開啓鏈接")。
 ### Step 1
@@ -22,4 +22,4 @@ Previous page [**Python**](https://github.com/AdamXu23/Python/tree/main/Install)
 2.   Click “**Close**”
 *   ![](https://github.com/AdamXu23/Python/blob/main/Install/Download%20Python%20runtime/Image/Python_Install_5.jpg)
 
-Previous page [**Python**](https://github.com/AdamXu23/Python/tree/main/Install)。
+Previous page [**Install**](https://github.com/AdamXu23/Python/tree/main/Install)。
