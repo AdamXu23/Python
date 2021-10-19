@@ -3,7 +3,7 @@ Previous page [**Install**](https://github.com/AdamXu23/Python/tree/main/Install
  Download Python runtime [**Downloads**](https://www.python.org/downloads/windows/ "在新分頁開啓鏈接")。
 ### Step 1
 1.  Run as administrator
-*   ![](https://github.com/AdamXu23/Python/blob/main/Install/Install%20Python%20runtime/Image/PyCharm_Install_1.jpg)
+*   ![](https://github.com/AdamXu23/Python/blob/main/Install/Install%20Python%20runtime/Image/Python_Install_1.jpg)
 ### Step 2
 1.  Check “**Add Python x.x to PATH**” 
 2.  Click “**Customize Installation**”
