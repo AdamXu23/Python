@@ -6,12 +6,11 @@ Previous page [**Install**](https://github.com/AdamXu23/Python/tree/main/Install
 1.  Run as administrator
 *   ![](https://github.com/AdamXu23/Python/blob/main/Install/Install%20Python%20runtime/Image/PyCharm_Install_2.jpg)
 ### Step 2
-1.  Check “**Add Python x.x to PATH**” 
-2.  Click “**Customize Installation**”
+1.  Click “**Next**“
 *   ![](https://github.com/AdamXu23/Python/blob/main/Install/Download%20Python%20runtime/Image/Python_Install_2.jpg)
 ### Step 3
 1.   Click “**Next**“
-*   ![](https://github.com/AdamXu23/Python/blob/main/Install/Download%20Python%20runtime/Image/Python_Install_3.jpg)
+*   ![](https://github.com/AdamXu23/Python/blob/main/Install/Install%20Python%20runtime/Image/PyCharm_Install_3.jpg)
 ### Step 4
 1.   Redefine the installation path
 >       C:\Pythonxxx
