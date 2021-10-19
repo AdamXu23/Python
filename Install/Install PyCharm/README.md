@@ -7,7 +7,7 @@ Previous page [**Install**](https://github.com/AdamXu23/Python/tree/main/Install
 *   ![](https://github.com/AdamXu23/Python/blob/main/Install/Install%20Python%20runtime/Image/PyCharm_Install_2.jpg)
 ### Step 2
 1.  Click “**Next**“
-*   ![](https://github.com/AdamXu23/Python/blob/main/Install/Download%20Python%20runtime/Image/Python_Install_2.jpg)
+*   ![](https://github.com/AdamXu23/Python/blob/main/Install/Install%20Python%20runtime/Image/PyCharm_Install_3.jpg)
 ### Step 3
 1.   Click “**Next**“
 *   ![](https://github.com/AdamXu23/Python/blob/main/Install/Install%20Python%20runtime/Image/PyCharm_Install_3.jpg)
