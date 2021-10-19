@@ -18,5 +18,9 @@ Previous page [**Install**](https://github.com/AdamXu23/Python/tree/main/Install
 ### Step 5
 1.   Click “**Install**“
 *   ![](https://github.com/AdamXu23/Python/blob/main/Install/Install%20Python%20runtime/Image/PyCharm_Install_6.jpg)
+### Step 6
+1.   Click “**Reboot**“
+2.   Click “**Finish**“
+*   ![](https://github.com/AdamXu23/Python/blob/main/Install/Install%20Python%20runtime/Image/PyCharm_Install_7.jpg)
 
 Previous page [**Install**](https://github.com/AdamXu23/Python/tree/main/Install)。
