@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50af7b19-3385-4975-a1ea-cde606028411" name="Changes" comment="20211020-1113">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="50af7b19-3385-4975-a1ea-cde606028411" name="Changes" comment="20211020-1332" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1zkkUtQ4u3TKnQ46uIeCUPmHcAX" />
@@ -51,7 +49,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634699637110</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20211020-1332">
+      <created>1634707935932</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634707935932</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,6 +73,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20211020-1113" />
-    <option name="LAST_COMMIT_MESSAGE" value="20211020-1113" />
+    <MESSAGE value="20211020-1332" />
+    <option name="LAST_COMMIT_MESSAGE" value="20211020-1332" />
   </component>
 </project>
