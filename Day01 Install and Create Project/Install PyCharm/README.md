@@ -23,4 +23,20 @@
 2.   Click “**Finish**“
 *   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20PyCharm/Image/PyCharm_Install_7.jpg)
 
+## Change language
+### Step 1
+1.   Start “**PyCharm**“
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20PyCharm/Image/PyCharm_Install_8.jpg)
+
+### Step 2
+1.   Click “**Plugins**“
+2.   Find “**Chinese**“
+3.   Click “**Install**“
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20PyCharm/Image/PyCharm_Install_9.jpg)
+
+### Step 3
+1.   Click “**Restart IDE**“
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20PyCharm/Image/PyCharm_Install_10.jpg)
+
+
 [**Day01 Install and Create Project**](https://github.com/AdamXu23/Python/tree/main/Day01%20Install%20and%20Create%20Project)。
