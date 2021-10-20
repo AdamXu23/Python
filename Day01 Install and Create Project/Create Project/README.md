@@ -1,8 +1,8 @@
 [**Day01 Install and Create Project**](https://github.com/AdamXu23/Python/tree/main/Day01%20Install%20and%20Create%20Project)。
 # Create Project
 ### Step 1
-1.  Run as administrator
-*   ![](https://github.com/AdamXu23/Python/blob/main/Install/Install%20PyCharm/Image/PyCharm_Install_2.jpg)
+1.  Start “PyCharm“
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Create%20Project/Image/Create%20Project_01.jpg)
 ### Step 2
 1.  Click “**Next**“
 *   ![](https://github.com/AdamXu23/Python/blob/main/Install/Install%20PyCharm/Image/PyCharm_Install_3.jpg)
