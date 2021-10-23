@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d058930-2a75-40cc-85b3-e163030b33bf" name="变更" comment="20211023-1534">
-      <change afterPath="$PROJECT_DIR$/Day02 Print and Variable/.ipynb_checkpoints/Lesson1  Operator 运算符-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02 Print and Variable/Lesson1  Operator 运算符.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="2d058930-2a75-40cc-85b3-e163030b33bf" name="变更" comment="20211023-1534" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634974455051</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="20211023-1534">
+      <created>1634974727274</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1634974727274</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
