@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d058930-2a75-40cc-85b3-e163030b33bf" name="变更" comment="20211023-1534" />
+    <list default="true" id="2d058930-2a75-40cc-85b3-e163030b33bf" name="变更" comment="20211023-2112">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day02 Print and Variable/.ipynb_checkpoints/Lesson2  Operator 运算符-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day02 Print and Variable/.ipynb_checkpoints/Lesson2  Operator 运算符-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day02 Print and Variable/Lesson2  Operator 运算符.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day02 Print and Variable/Lesson2  Operator 运算符.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634993764255</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="20211023-2112">
+      <created>1634994753559</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1634994753559</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +122,7 @@
     <MESSAGE value="20211021-0009" />
     <MESSAGE value="20211023-1501" />
     <MESSAGE value="20211023-1534" />
-    <option name="LAST_COMMIT_MESSAGE" value="20211023-1534" />
+    <MESSAGE value="20211023-2112" />
+    <option name="LAST_COMMIT_MESSAGE" value="20211023-2112" />
   </component>
 </project>
