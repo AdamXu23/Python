@@ -14,36 +14,38 @@
 >     pip install -U jupyterlab
 >       
 *   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step03_01.jpg)
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step03_02.jpg)
+3.  **Install Jupyter Notebook**
+>     pip install notebook
+>     pip install -U notebook
+>       
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step03_03.jpg)
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step03_04.jpg)
+4.  **Install jupyter_contrib_nbextensions**
+>     pip install jupyter_contrib_nbextensions
+>     jupyter contrib nbextension install
+>       
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step03_05.jpg)
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step03_06.jpg)
 
-1.  Open a new Terminal as “**Command Prompt**“
-*   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20Jupyter%20Notebook/Image/Install_Jupyter%20Notebook_03.jpg)
 ### Step 4
-1.   Confirm that it starts with “**(venv)**“
-2.   Execute “**Jupyter Notebook**“
+1.   **Open Jupyter Notebook**
 >       Jupyter Notebook
 >       
-*   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20Jupyter%20Notebook/Image/Install_Jupyter%20Notebook_04.jpg)
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step04_01.jpg)
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step04_02.jpg)
+1.   **Setting up Jupyter Notebooks**
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step04_03.jpg)
 ### Step 5
-1.  “**Jupyter Notebook**“ has been opened in “**Chrome**“
-2.  Close “**Chrome**“ and “**Command Prompt**“
-*  ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20Jupyter%20Notebook/Image/Install_Jupyter%20Notebook_05.jpg)
-### Step 6
-1.  Return to “**Local**“
-2.  Execute “**pip install jupyter_contrib_nbextensions**“
->       pip install jupyter_contrib_nbextensions
+1.  **Test Jupyter Notebook**
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step05_01.jpg)
+2.  **Rename**
+>       Jupyter Notebook test
 >       
-*  ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20Jupyter%20Notebook/Image/Install_Jupyter%20Notebook_06.jpg)
-### Step 7
-1.  Execute “**jupyter contrib nbextension install**“
->       jupyter contrib nbextension install
->       
-*  ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20Jupyter%20Notebook/Image/Install_Jupyter%20Notebook_07.jpg)
-### Step 8
-1.  Reopen “**Jupyter Notebook**“(Refer to Step3~4)
-2.  **Switch to the Nbextensions tab**
-3.  Uncheck “**disable configuration for nbextensions without explicit compatibility **“
-4.  Check “**Hinterland**“
-*  ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20Jupyter%20Notebook/Image/Install_Jupyter%20Notebook_08.jpg)
-
-[**Day01 Install and Create Project**](https://github.com/AdamXu23/Python/tree/main/Day01%20Install%20and%20Create%20Project)。
-
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step05_02.jpg)
+3.  **Input Program**
+>       a=5
+>       b=10
+>       c=a+b
+>       c
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step05_03.jpg)
