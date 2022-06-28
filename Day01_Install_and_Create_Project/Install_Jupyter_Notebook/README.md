@@ -1,14 +1,13 @@
-[**Day01 Install and Create Project**](https://github.com/AdamXu23/Python/tree/main/Day01%20Install%20and%20Create%20Project)。
 # Install Jupyter Notebook
 ### Step 1
-1.  **Open Projects**
-*   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20Jupyter%20Notebook/Image/Install_Jupyter%20Notebook_01.jpg)
+1.  **Open Terminal** Run as administrator
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step01_01.jpg)
 ### Step 2
-1.  **Open Terminal**
-2.  Execute “**pip install Jupyter Notebook**“
->       pip install Jupyter Notebook
+1.    “**Upgrade pip**“
+>       pip install --upgrade pip
 >       
-3.  **Wait for the installation to complete**
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step02_01.jpg)
+2.  **Install Pandas**
 *   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20Jupyter%20Notebook/Image/Install_Jupyter%20Notebook_02.jpg)
 ### Step 3
 1.  Open a new Terminal as “**Command Prompt**“
@@ -42,3 +41,4 @@
 *  ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20Jupyter%20Notebook/Image/Install_Jupyter%20Notebook_08.jpg)
 
 [**Day01 Install and Create Project**](https://github.com/AdamXu23/Python/tree/main/Day01%20Install%20and%20Create%20Project)。
+
