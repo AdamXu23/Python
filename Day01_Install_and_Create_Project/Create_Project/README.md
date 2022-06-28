@@ -2,7 +2,7 @@
 # Create Project
 ### Step 1
 1.  Start “PyCharm“
-*   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Create%20Project/Image/Create%20Project_01.jpg)
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Python_runtime/Image/Python_Downloads_1.jpg)
 ### Step 2
 1.  Click “**New Project**“
 *   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Create%20Project/Image/Create%20Project_02.jpg)
