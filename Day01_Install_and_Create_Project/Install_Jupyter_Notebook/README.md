@@ -3,13 +3,18 @@
 1.  **Open Terminal** Run as administrator
 *   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step01_01.jpg)
 ### Step 2
-1.    “**Upgrade pip**“
->       pip install --upgrade pip
+1.  **Upgrade pip**
+>     pip install --upgrade pip
 >       
 *   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step02_01.jpg)
-2.  **Install Pandas**
-*   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20Jupyter%20Notebook/Image/Install_Jupyter%20Notebook_02.jpg)
 ### Step 3
+1.  [**Install Jupyter Notebook**](https://jupyter.org/install)
+2.  **install jupyterlab**
+>     pip install jupyterlab
+>     pip install -U jupyterlab
+>       
+*   ![](https://github.com/AdamXu23/Python/blob/main/Day01_Install_and_Create_Project/Install_Jupyter_Notebook/Image/Step03_01.jpg)
+
 1.  Open a new Terminal as “**Command Prompt**“
 *   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20Jupyter%20Notebook/Image/Install_Jupyter%20Notebook_03.jpg)
 ### Step 4
